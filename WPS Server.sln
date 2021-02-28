@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPS Server", "WPS Server\WPS Server.csproj", "{242C9953-5E00-4810-97CD-2290EF6C6A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNS", "DNS\DNS.csproj", "{EBCB8F53-C56A-4245-893F-CE67D69D0087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{242C9953-5E00-4810-97CD-2290EF6C6A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242C9953-5E00-4810-97CD-2290EF6C6A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242C9953-5E00-4810-97CD-2290EF6C6A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242C9953-5E00-4810-97CD-2290EF6C6A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCB8F53-C56A-4245-893F-CE67D69D0087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCB8F53-C56A-4245-893F-CE67D69D0087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCB8F53-C56A-4245-893F-CE67D69D0087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCB8F53-C56A-4245-893F-CE67D69D0087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {362F171E-1230-4EB8-B086-75AB9FA65096}
+	EndGlobalSection
+EndGlobal
